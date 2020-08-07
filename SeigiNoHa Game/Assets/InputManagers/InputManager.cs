@@ -9,7 +9,7 @@
 
 using UnityEngine;
 
-namespace InputManager
+namespace SNH.InputManager
 {
     enum Button
     {
